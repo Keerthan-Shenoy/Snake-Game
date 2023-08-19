@@ -1,0 +1,8 @@
+In this game, the player controls the snake and move it around using arrows.
+As the snake finds food, it eats the food and thereby it grows larger making the
+game increasingly difficult.
+The game ends when the snake either moves off the screen or moves into itself.
+The goal is to make the snake as large as possible before that happens and
+score maximum points.
+You can pause or play the game by clicking pause/play buttons or by
+pressing space and enter keys respectively.
